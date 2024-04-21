@@ -39,13 +39,15 @@ If you find this useful, please donate BTC at [bc1qla7lmz3guzz3cezhfl72r0w546a4g
   18. [2023-02-23](#2023-02-23---official-hint): Official Hint - Reverse binary string
   19. [2023-08-03](#2023-08-03-hint): Official Hint - Are you really looking for the btc...?
   20. [2023-08-06](#2023-08-06-hint): Official Hint - The puzzle speaks for me
+  21. [2024-04-19](#2024-04-19): Second Halving
 
 ![puzzle image](./puzzle.png)
 
 # Summary
 - The puzzle was published at https://gsmg.io/puzzle
 - The prize address with 5 BTC is [1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe](https://www.blockchain.com/btc/address/1GSMG1JC9wtdSwfwApgj2xcmJPAwx7prBe)
-(The creator of the puzzle intended to halve the prize each time Bitcoin halving occurs. It happened for the first time on May 11, 2020, the current value is 2.5 BTC)
+(The creator of the puzzle intended to halve the prize each time Bitcoin halving occurs. It happened for the first time on May 11, 2020, and a second time on Apr 19, 2024. the current value is 1.25 BTC)
+- A potential second address located here for a value of 3.75 BTC [17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa](https://www.blockchain.com/btc/address/17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa)
 - Discussions on Reddit: [gsmgio_5_btc_puzzle](https://www.reddit.com/r/bitcoinpuzzles/comments/dfwcqk/gsmgio_5_btc_puzzle/), [gsmgio_5_btc_puzzle_challenge](https://www.reddit.com/r/bitcoinpuzzles/comments/bf7siz/gsmgio_5_btc_puzzle_challenge/)
 - Telegram channel: [invite link](https://t.me/joinchat/AJXEwEWK9gvhxwkgeXJUVw)
 
@@ -347,3 +349,13 @@ It can be noted that the "..." we see in puzzles shows up, and might be replaced
 ![Alt text](hints/2023-08-06-3.png)
 
 ![Alt text](hints/2023-08-06-4.png)
+
+## 2024-04-10
+
+![alt text](hints/2024-04-10.png)
+
+## 2024-04-19 Second halving
+
+![alt text](hints/2024-04-19-1.png)
+
+![alt text](hints/2024-04-19-2.png)
