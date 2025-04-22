@@ -70,8 +70,42 @@ Useful OpenSSL flags:
 
 [Link to notebook](./phase0.ipynb)
 
-* "Follow the white rabbit"
 * white/yellow square = 0, black/blue square = 1
+* 
+0 0 1 1 0 1 0 0 1 0 1 1 0 0
+1 1 1 1 0 0 1 1 1 1 0 1 0 1
+1 1 0 1 1 1 0 1 0 0 1 0 0 1
+0 1 1 0 1 0 0 0 0 1 1 1 0 1
+0 1 1 0 0 0 1 1 0 0 0 1 1 0
+1 0 0 1 1 0 0 0 1 0 0 0 1 1
+1 0 0 1 1 1 0 0 0 1 0 0 0 0
+1 1 1 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 1 1 1 0 1 1 1 1 1 0 1
+1 1 1 1 1 1 0 0 1 1 0 0 0 1
+1 1 0 1 0 0 0 0 0 0 1 1 0 1
+1 1 1 1 0 0 1 1 0 1 0 1 1 0
+0 1 0 1 1 1 0 1 0 0 0 1 1 0
+0 1 1 0 1 1 0 1 1 0 1 0 1 1
+
+
+White = 0 Black = 1 Yellow = 2 Blue = 3 
+
+0 0 1 1 0 3 0 0 1 0 1 1 0 2 
+1 1 3 1 0 0 1 1 1 0 3 0 1 1
+1 1 0 1 1 1 0 3 0 0 1 0 0 1
+0 1 1 0 3 0 0 0 0 1 1 1 0 1 
+0 3 1 0 0 0 1 1 0 2 0 1 1 0 
+1 0 0 1 1 0 2 0 1 0 2 0 1 1 
+1 0 0 3 1 1 0 0 0 1 0 2 0 0 
+3 1 1 0 0 0 0 0 0 0 1 0 2 0
+0 0 0 1 1 3 0 1 1 1 1 1 0 3
+1 1 3 1 1 1 2 0 1 1 0 0 0 1 
+1 1 0 1 0 0 0 2 0 1 1 0 1 1
+1 1 1 1 0 0 1 0 3 0 1 1 0 0
+0 3 0 1 1 1 0 1 0 2 0 1 1 0 
+0 1 3 0 1 1 0 1 1 0 3 0 1 1
+
+* "Follow the white rabbit"
 * Unwrap the squares counter-clockwise
 * 8 squares per byte, ascii
 * result is "gsmg.io/theseedisplanted"
