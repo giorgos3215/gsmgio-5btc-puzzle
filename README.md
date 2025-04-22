@@ -202,6 +202,9 @@ Not an official hint, and could be Jrk trolling
 Bitcoin halving. Half of the prize was moved to [17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa](https://www.blockchain.com/explorer/addresses/BTC/17ucy1K9ZUAaoY6JVtM932W9jUp5LXfyHa)
 
 And Jrk mentions a second door.
+```
+Let's see what bitcoin is worth the next halving and who knows what you'll find after opening the 2nd door. The price is in half, but what does it mean 🤔.
+```
 
 ![Alt text](hints/2020-05-11.png)
 
