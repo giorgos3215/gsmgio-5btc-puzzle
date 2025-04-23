@@ -291,7 +291,13 @@ More confirmation of salphaseion being the last phase.
 ## 2021-04-01
 
 An April Fools Hint. This might not be a real hint
+```
+R=18
+A=1
+B=2
 
+Telegram message seems to debunk this.
+```
 ![Alt text](<hints/2021-04-01-april fool.png>)
 
 ## 2021-04-16
