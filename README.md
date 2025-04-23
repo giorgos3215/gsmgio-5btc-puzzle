@@ -324,6 +324,14 @@ See how to [solve it here](./salphaseion.ipynb)
 
 Another Official hint
 
+```
+There is another 
+D
+O
+O
+R
+
+
 ![Alt text](hints/2021-12-02-another-door-hint.png)
 
 ## 2021-12-26 Christmas Hint
